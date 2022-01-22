@@ -12,7 +12,7 @@ h1 {
     margin-bottom: 20px;
     text-align: center;
     color: #000000;
-    font-size: 50px;
+    font-size: 36px;
 }
 
 .box {
@@ -21,11 +21,12 @@ h1 {
 }
 
 .content-name {
+    font-size: 24px;
     overflow: none;
     text-align: center;
-    border: 4px solid black;
+    border: 2px solid black;
     width: 150px;
-    height: 40px;
+    height: 45px;
     padding: 5px;
     float: right;
     margin-right: 10px;
@@ -35,39 +36,29 @@ h1 {
 }
 
 .content {
-    border: 5px solid black;
+    border: 3px solid black;
     width: 95%;
     height: auto;
     margin: 2.5%;
-    color: black;
+    color: #000000;
     font-size: 18px;
     padding: 2.5%;
-    padding-top: 55px;
-    background-color: rgba(0, 0, 0, 0.3);
-}
-
-.content-box {
-    border: 5px solid black;
-    width: 95%;
-    height: auto;
-    margin: 2.5%;
-    color: black;
-    font-size: 18px;
-    padding: 2.5%;
-    padding-top: 55px;
+    padding-top: 70px;
     background-color: rgba(0, 0, 0, 0.3);
 }
 
 .name1 {
+    color: #000000;
     background-color: #FFB6C1;
 }
 
 .name2 {
-    color: white;
+    color: #FFFFFF;
     background-color: #FF0000;
 }
 
 .name3 {
+    color: #000000;
     background-color: #FFFF00;
 }
 
